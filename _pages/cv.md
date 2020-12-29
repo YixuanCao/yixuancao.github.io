@@ -11,11 +11,13 @@ redirect_from:
 
 {% include base_path %}
 
+Yixuan Cao is currently an assistant research in Institute of Computing Technology, Chinese Academy of Sciences (CAS).
+His research interest includes NLP, Document Intelligence, and Structured Information Extraction.
 
 Education
 ======
+* Ph.D in CS, University of Chinese Academy of Sciences (Institute of Computing Technology, CAS), 2020
 * B.S. in Traffic Engineering, Tongji University, 2015
-* Ph.D in CS, University of Chinese Academy of Sciences (Institute of Computing Technology, CAS), 2020 (expected)
 
 
 Publications
