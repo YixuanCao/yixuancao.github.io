@@ -1,0 +1,17 @@
+---
+title: "Cracking Tabular Presentation Diversity for Automatic Cross-Checking over Numerical Facts"
+collection: publications
+permalink: /publication/2020-02-27-KDD
+excerpt: 'automatic cross-checking over numerical facts in tables'
+date: 2020-02-27
+venue: 'KDD'
+paperurl: 'http://yixuancao.github.io/files/kdd 20 Cracking Tabular Presentation Diversity.pdf'
+citation: 'Hongwei Li, Qingping Yang, Yixuan Cao, Jiaquan Yao, and Ping Luo. 2020. Cracking Tabular Presentation Diversity for Automatic Cross-Checking over Numerical Facts, In KDD.'
+---
+This paper introduce an interesting and useful task: cross-checking over numerical facts in tables.
+
+This task is one of a series of work on automatic numerical cross-checking (another one is [WWW 2018](https://yixuancao.github.io/publication/2018-05-15-WWW-formula-extraction) )
+
+Different with our work in WWW 2018, this work solves cross-checking in an end-to-end manner. Please refer to the paper for more details about the application, the model, and how we make such model applicable for almost real time application.
+
+[Download paper here](http://yixuancao.github.io/files/kdd 20 Cracking Tabular Presentation Diversity.pdf)real time
