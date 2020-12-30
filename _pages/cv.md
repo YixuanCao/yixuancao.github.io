@@ -11,7 +11,7 @@ redirect_from:
 
 {% include base_path %}
 
-Yixuan Cao is currently an assistant research in Institute of Computing Technology, Chinese Academy of Sciences (CAS).
+Yixuan Cao is an Assistant Professor in Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS).
 His research interest includes NLP, Document Intelligence, and Structured Information Extraction.
 
 Education
