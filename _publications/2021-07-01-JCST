@@ -1,0 +1,17 @@
+---
+title: "Extracting Variable-Depth Logical Document Hierarchy from Long Documents: Methods, Evaluations, and Applications"
+collection: publications
+permalink: /publication/2021-07-01-JCST
+excerpt: 'We study the problem of extracting variable-depth "logical document hierarchy", i.e. table of contents,  from long documents.'
+date: 2021-07-01
+venue: 'JCST'
+paperurl: 'http://yixuancao.github.io/files/JCST-21-HELD.pdf'
+citation: 'Rongyu Cao, Yixuan Cao, Ganbin Zhou, and Ping Luo. 2021. Extracting Variable-Depth Logical Document Hierarchy from Long Documents: Method, Evaluation, and Application. Journal of Computer Science and Technology.'
+
+In this paper, we study the problem of extracting variable-depth "logical document hierarchy" from long documents, namely organizing the recognized "physical document objects" into hierarchical structures. The discovery of logical document hierarchy is the vital step to support many downstream applications. However, long documents, containing hundreds or even thousands of pages and variable-depth hierarchy, challenge the existing methods. 
+
+To address these challenges, we develop a framework, namely Hierarchy Extraction from Long Document (HELD), where we "sequentially" insert each physical object at the proper on of the current tree. Determining whether each possible position is proper or not can be formulated as a binary classification problem. To further improve its effectiveness and efficiency, we study the design variants in HELD, including traversal orders of the insertion positions, heading extraction explicitly or implicitly, tolerance to insertion errors in predecessor steps, and so on. 
+
+The empirical experiments based on thousands of long documents from Chinese, English financial market and English scientific publication show that the HELD model is the best choice to achieve the tradeoff between effectiveness and efficiency with the accuracy of 0.9726, 0.7291 and 0.9578 in Chinese financial, English financial and arXiv datasets, respectively. Finally, we show that logical document hierarchy can be employed to significantly improve the performance of the downstream passage retrieval task.
+
+[Download paper here](http://yixuancao.github.io/files/JCST-21-HELD.pdf)
