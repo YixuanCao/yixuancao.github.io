@@ -10,7 +10,7 @@ locale                   : "zh-CN"
 title                    : "Cao Yixuan / 曹逸轩"
 title_separator          : "-"
 name                     : &name "Cao Yixuan / 曹逸轩"
-description              : &description "Assistant Professor at ICT, CAS"
+description              : &description "Associate Professor at ICT, CAS"
 url                      : https://yixuancao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yixuancao.github.io"
@@ -80,10 +80,10 @@ analytics:
 author:
   name             : "Cao Yixuan / 曹逸轩"
   avatar           : "profile.png"
-  bio              : "Assistant Professor at ICT, CAS, interested in NLP and ML"
-  location         : "Haidian, Beijing, China"
+  bio              : "Associate Professor at ICT, CAS, interested in NLP and ML"
+  location         : "Beijing, China"
   employer         :
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=Q5XWFacAAAAJ"
   email            :
   uri              :
   bitbucket        :
