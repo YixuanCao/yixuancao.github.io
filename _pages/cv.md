@@ -16,6 +16,8 @@ His research interest includes NLP, Document Intelligence, and Structured Inform
 
 Always looking for self-motivated interns with a strong interest/background in NLP / machine learning / data mining. 
 
+News: I'm currently looking for self-motivated master students who are interested in machine learning, data mining, and natual language processing. Please feel free to drop me email with your CV.
+
 
 
 Education
