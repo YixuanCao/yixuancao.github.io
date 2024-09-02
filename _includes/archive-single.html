@@ -52,11 +52,11 @@
 
     {% if post.excerpt and site.read_more != 'enabled' %}
       <p class="archive__item-excerpt" itemprop="description">
-        <span><strong>TLDR:</strong></span><span>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+        <p>TLDR: {{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}</p>
       </p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
       <p class="archive__item-excerpt" itemprop="description">
-        <p><strong>TLDR:</strong> {{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong>
+        <p>TLDR: {{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong>
         </p>
       </p>
     {% endif %}
