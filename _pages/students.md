@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Students"
+permalink: /students/
+author_profile: true
+---
+
 # Students in our group
 
 ## Ph.D. Students
