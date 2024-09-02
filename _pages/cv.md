@@ -25,7 +25,7 @@ Education
 * B.S. in Traffic Engineering, Tongji University, 2011-2015
 
 
-Publications
+Selected Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}

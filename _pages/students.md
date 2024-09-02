@@ -9,7 +9,7 @@ author_profile: true
 - Chaoxu PANG (庞朝旭)
 - Qiang DING (丁强)
 - Yu TANG (唐郁)
--Yifan LIU (刘逸凡)
+- Yifan LIU (刘逸凡)
 - Tianyu ZHOU (周天雨)
 - Qi WANG (王棋)
 
