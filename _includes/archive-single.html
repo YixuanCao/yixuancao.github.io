@@ -42,7 +42,7 @@
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
         {% if post.paperurl %}
-          <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} <a href="[Download]"><u>{{ post.paperurl }}</u></a></p>
+          <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} <a href="{{ post.paperurl }}"><u>[Download]</u></a></p>
         {% else %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% endif %}
@@ -51,9 +51,14 @@
         {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description">TLDR: {{ post.excerpt | markdownify }}</p>
+      <p class="archive__item-excerpt" itemprop="description">
+        <span><strong>TLDR:</strong></span><span>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+      </p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description"><p>TLDR: {{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+      <p class="archive__item-excerpt" itemprop="description">
+        <p><strong>TLDR:</strong> {{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong>
+        </p>
+      </p>
     {% endif %}
     
     <!-- {% if post.citation and post.paperurl %}
