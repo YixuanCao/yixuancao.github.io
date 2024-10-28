@@ -12,11 +12,11 @@ redirect_from:
 {% include base_path %}
 
 Yixuan Cao is an Associate Professor in Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS).
-His research interest includes NLP, Document Intelligence, and Trustworthy AI (expecially hallucination in LLM). He is working on an exciting project that brings AI technology to finance.
+His research interest includes NLP, Document Intelligence, and Trustworthy AI (expecially hallucination in LLM). He is currently working with Professor [Ping Luo](https://ping-luo.github.io) on exciting projects that brings AI technology to finance.
 
-Always looking for self-motivated interns with a strong interest/background in NLP / machine learning / data mining. 
+**Always looking for self-motivated interns with a strong interest/background in NLP / machine learning / data mining. Please feel free to drop me email with your CV.**
 
-**News: I'm currently looking for self-motivated master students who are interested in machine learning, data mining, and natual language processing. Please feel free to drop me email with your CV.**
+[comment]: <> (**News: I'm currently looking for self-motivated master students who are interested in machine learning, data mining, and natual language processing. Please feel free to drop me email with your CV.**)
 
 
 Education
