@@ -16,7 +16,11 @@ His research interest includes NLP, Document Intelligence, and Trustworthy AI (e
 
 **Always looking for self-motivated interns with a strong interest/background in NLP / machine learning / data mining. Please feel free to drop me email with your CV.**
 
+**News: 目前课题组有硕士统考名额，如果你对研究充满热情，并且对机器学习、数据挖掘及自然语言处理领域感兴趣，欢迎随时发送简历至我的邮箱。**
+
 [comment]: <> (**News: I'm currently looking for self-motivated master students who are interested in machine learning, data mining, and natual language processing. Please feel free to drop me email with your CV.**)
+
+
 
 
 Education
