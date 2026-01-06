@@ -13,5 +13,3 @@ This paper introduce an interesting and useful task: cross-checking over numeric
 This task is one of a series of work on automatic numerical cross-checking (another one is [WWW 2018](https://yixuancao.github.io/publication/2018-05-15-WWW-formula-extraction) )
 
 Different with our work in WWW 2018, this work solves cross-checking in an end-to-end manner. Please refer to the paper for more details about the application, the model, and how we make such model applicable for almost real time application.
-
-[paper](https://dl.acm.org/doi/abs/10.1145/3394486.3403310)

@@ -11,6 +11,4 @@ citation: 'Yixuan Cao, Hongwei Li, Ping Luo, and Jiaquan Yao. Towards Automatic 
 This paper introduce a novel method that can extract formulas from natural language from financial documents.
 This work is part of the system that can conduct automatic Numerical Cross-Checking [AutoDoc](https://autodoc.paodingai.com/) (A Chinese Bond Prospectus Cross-Checking System).
 
-[paper](https://dl.acm.org/doi/pdf/10.1145/3178876.3186166)
-
 [slides](http://yixuancao.github.io/files/WWW-18-report-0420.pptx)
