@@ -5,5 +5,5 @@ permalink: /publication/KDD-Chat2Trade
 excerpt: 'This paper proposes a LLM-based RFQ parsing (information extraction) method that accelerates the workflow of secondry bond market in China.'
 date: 2026-08-08
 venue: 'KDD'
-paperurl: ''
+paperurl: 'https://doi.org/10.1145/3770854.3783923'
 ---
