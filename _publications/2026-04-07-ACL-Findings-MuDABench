@@ -1,0 +1,10 @@
+---
+title: "Navigating Large-Scale Document Collections: MuDABench for Multi-Document Analytical QA"
+collection: publications
+permalink: /publication/2026-04-07-ACL-Findings-MuDABench
+excerpt: 'This paper introduces the task of analytical question answering over large, semi-structured document collections, publishes a dataset, and proposes an agent-based approach.'
+date: 2026-04-07
+venue: 'Findings of ACL'
+paperurl: ''
+citation: 'Zhanli Li, Yixuan Cao, Lvzhou Luo, Ping Luo. Navigating Large-Scale Document Collections: MuDABench for Multi-Document Analytical QA. In Findinds of ACL, 2026.'
+---
